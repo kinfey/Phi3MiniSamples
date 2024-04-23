@@ -1,2 +1,4 @@
-# Phi3MiniSamples
-This is phi3-mini samples
+# **Microsoft phi3-mini samples**
+
+
+This is Microsoft phi3-mini samples.
